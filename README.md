@@ -37,7 +37,7 @@ Cada clase tendrá su propio directorio con:
 - Material de apoyo
 
 ```text
-.
+
 ├── clase-1/
 │   ├── abstraccion.py
 │   ├── busqueda_lineal.py
@@ -56,7 +56,7 @@ Cada clase tendrá su propio directorio con:
 ├── practicas/
 │
 └── README.md
-
+```
 
 # 🤖 Uso de Inteligencia Artificial
 
